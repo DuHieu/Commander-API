@@ -7,16 +7,11 @@ C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Commander.runtimeconf
 C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Commander.dll
 C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\ref\Commander.dll
 C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Commander.pdb
-C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\Commander.csproj.AssemblyReference.cache
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\Commander.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\Commander.AssemblyInfoInputs.cache
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\Commander.AssemblyInfo.cs
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\Commander.csproj.CoreCompileInputs.cache
-C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\staticwebassets\Commander.StaticWebAssets.Manifest.cache
 C:\Users\`\Doc Net Api\Codeding\Commander\obj\Debug\net5.0\staticwebassets\Commander.StaticWebAssets.xml
@@ -138,3 +133,5 @@ C:\Users\`\Doc Net Api\Codeding\cd\obj\Debug\net5.0\Commander.dll
 C:\Users\`\Doc Net Api\Codeding\cd\obj\Debug\net5.0\ref\Commander.dll
 C:\Users\`\Doc Net Api\Codeding\cd\obj\Debug\net5.0\Commander.pdb
 C:\Users\`\Doc Net Api\Codeding\cd\obj\Debug\net5.0\Commander.genruntimeconfig.cache
+C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
