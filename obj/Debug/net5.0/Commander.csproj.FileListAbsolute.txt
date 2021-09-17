@@ -135,3 +135,6 @@ C:\Users\`\Doc Net Api\Codeding\cd\obj\Debug\net5.0\Commander.pdb
 C:\Users\`\Doc Net Api\Codeding\cd\obj\Debug\net5.0\Commander.genruntimeconfig.cache
 C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\`\Doc Net Api\Codeding\Commander\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
